@@ -1,5 +1,5 @@
 - 👋 Hi, welcome to the official Eternal Flame Studios Github account.
 - 🎮 Current project: FNAF: Pizzeria Simulator HTML5 port
-- 🤝 Collaborations: Kar's Games https://www.karsgames.xyz
+- 🤝 Collaborations: Kar's Games https://karsgames.xyz
 - 🌱 Our developers are currently learning how to make 3D games in the Godot engine
 - 📫 Contact us at eternalflamegamesofficial@outlook.com
