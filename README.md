@@ -1,5 +1,4 @@
-- 👋 Hi, welcome to the official Eternal Flame Studios Github account.
+- 👋 Hi, welcome to my Github account.
 - 🎮 Current project: VSCode Web Deployment
-- 🤝 Collaborations: Kar's Games https://karsgames.xyz
-- 🌱 Our developers are currently learning how to make 3D games in the Godot engine
-- 📫 Contact us at eternalflamegamesofficial@outlook.com
+- 🌱 I'm currently learning how to make 3D games in the Godot engine
+- 📫 Contact me at fluxuat0r@outlook.com
